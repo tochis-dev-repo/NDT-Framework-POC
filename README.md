@@ -49,6 +49,6 @@ Contributions are welcome! Feel free to fork this repository, raise issues, or s
 ---
 
 ## License
-This project is licensed under [MIT License].
+This project is licensed under the MIT License. You are free to use, modify, and distribute the software as long as you include the original license and copyright notice.
 
 ---
